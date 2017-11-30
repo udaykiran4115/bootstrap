@@ -1,0 +1,58 @@
+
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+header, footer {
+	background-color: #333;
+	color:#333;
+	padding: 5px;
+}
+footer{
+	color: white;
+}
+
+header{
+	text-align: -webkit-right
+}
+
+aside {
+	background-color: #f7f7ff;
+	text-align: center;
+	padding-top: 40px;
+}
+
+.range-list {
+	padding-bottom: 40px;
+	padding-top: 40px;
+}
+
+.range-list h4 {
+	margin-bottom: 40px;
+	color: darkorange;
+	font-weight: bold;
+	padding-top: 15px;
+}
+
+.range-list a:hover {
+	text-decoration: none;
+}
+
+.range-title {
+	color: darkblue;
+	font-size: 18px;
+	padding-bottom: 
+}
+
+article {
+	padding: 10px;
+}
+
+article p {
+	font-size: 16px;
+}
+
+article ul{
+	margin-left: 5%;
+	font-size: 16px;
+}
